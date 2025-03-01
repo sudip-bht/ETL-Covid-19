@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ### 3. Set Environment Variables
 
-Create a `.env` file in the backend directory of the project and add the following variables:
+Create a `.env` file  and add the following variables:
 
 ```
 SERVER=localhost
