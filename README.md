@@ -10,7 +10,7 @@ The pipeline processes:
 
 Sourced from JHU CSSE GitHub repositories (confirmed cases, deaths, recovered cases).
 
-#### Caccination Data:
+#### Vaccination Data:
 
 Sourced from Our World in Data’s vaccination datasets.The transformed data is stored in two MySQL tables:
 
